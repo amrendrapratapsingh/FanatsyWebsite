@@ -1,0 +1,74 @@
+CMS
+
+WordPress
+6.0.2
+Analytics
+
+Site Kit
+1.82.0
+
+Google Analytics
+Blogs
+
+WordPress
+6.0.2
+Issue trackers
+
+Cloudflare Network Error Logging
+Video players
+
+YouTube
+Font scripts
+
+Google Font API
+Miscellaneous
+
+Open Graph
+
+HTTP/3
+Caching
+
+WP Rocket
+Programming languages
+
+PHP
+CDN
+
+Cloudflare
+Databases
+
+MySQL
+Advertising
+
+Google AdSense
+Tag managers
+
+Google Tag Manager
+Live chat
+
+WhatsApp Business Chat
+JavaScript libraries
+
+LazySizes
+
+Underscore.js
+1.13.3
+
+jQuery Migrate
+3.3.2
+
+jQuery
+3.6.0
+WordPress plugins
+
+WP Rocket
+
+Site Kit
+1.82.0
+
+Autoptimize
+Performance
+
+Autoptimize
+
+LazySizes
